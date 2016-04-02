@@ -1,0 +1,5 @@
+\\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.Factory\LGroup.DataTransferObject\bin\Debug\LGroup.DataTransferObject.dll
+\\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.Factory\LGroup.DataTransferObject\bin\Debug\LGroup.DataTransferObject.pdb
+\\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.Factory\LGroup.DataTransferObject\obj\Debug\LGroup.DataTransferObject.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.Factory\LGroup.DataTransferObject\obj\Debug\LGroup.DataTransferObject.dll
+\\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.Factory\LGroup.DataTransferObject\obj\Debug\LGroup.DataTransferObject.pdb
